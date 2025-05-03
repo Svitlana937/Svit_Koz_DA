@@ -83,10 +83,16 @@ This project uses tools like scikit-learn, numpy, matplotlib, and seaborn for an
 
 ## Setup Instructions
 
-Clone repository and Install dependencies: Ensure you have Python 3 installed. Install the required libraries using `pip`:
+Clone repository: Install dependencies: Ensure you have Python 3 installed. Install the required libraries using `pip`:
 ```bash
 git clone https://github.com/Svitlana937/Svit_Koz_DA.git
-cd Svit_Koz_DA
-
+```
+Install dependencies: Ensure you have Python 3 installed. Install the required libraries using `pip`:
+```bash
+pip install -r requirements.txt
+```
+Run the notebook: Open the notebook in Jupyter:
+```bash
 jupyter notebook tasks.ipynb
+```
 ```
