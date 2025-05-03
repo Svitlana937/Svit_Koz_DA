@@ -88,6 +88,5 @@ Clone repository and Install dependencies: Ensure you have Python 3 installed. I
 git clone https://github.com/Svitlana937/Svit_Koz_DA.git
 cd Svit_Koz_DA
 
-
-```bash
 jupyter notebook tasks.ipynb
+```
