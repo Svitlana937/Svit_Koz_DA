@@ -95,4 +95,3 @@ Run the notebook: Open the notebook in Jupyter:
 ```bash
 jupyter notebook tasks.ipynb
 ```
-```
